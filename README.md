@@ -1,4 +1,4 @@
-<em> # Practicas_PDI </em>
+# Practicas_PDI
 <h3> Portafolio de practicas que se ralizan en la materia de Procesamiento Digital de Imagenes </h3>
 <ol>
  <li> Histograma de imagen RBG </li>
