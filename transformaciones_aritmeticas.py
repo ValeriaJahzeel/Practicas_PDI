@@ -1,4 +1,3 @@
-#https://jhovhapdi.blogspot.com/2016/10/las-transformaciones-mas-simples-son_31.html
 """
 Hecho por: Valeria Castañon
 Fecha: 11 - marzo - 2023
